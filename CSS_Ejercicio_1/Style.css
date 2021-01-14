@@ -1,0 +1,8 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p1 {
+    font-style: italic;
+    border: 2px dotted rgb(212, 93, 93);
+}
