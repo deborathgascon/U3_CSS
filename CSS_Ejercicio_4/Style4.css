@@ -1,0 +1,17 @@
+.lateral {
+    margin: 20px;
+}
+
+.lateral p {
+    background-color: rgb(138, 222, 224);
+    width: 150px;
+    padding: 5px;
+}
+
+.lateral a:hover {
+    color: rgb(255, 80, 80);
+}
+
+.lateral a:visited {
+    color: rgb(87, 131, 12);
+}
